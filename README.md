@@ -10,3 +10,4 @@ A Python CLI tool to evaluate password strength using:
 ```bash
 python password_checker.py
 
+NOTE: We can use rockyou.txt as alternative for common_passwords.txt list for better password strength analysis.
